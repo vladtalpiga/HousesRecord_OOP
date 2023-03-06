@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653766415 source:c:\users\vlad\desktop\tema3poo\tema3poo\main.cpp
+	<iostream>
+	<set>
+	<vector>
+
